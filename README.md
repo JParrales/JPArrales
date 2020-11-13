@@ -22,5 +22,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JParrales&layout=compact&hide_border=true&count_private=true&langs_count=6)
 ![Jose's github stats](https://github-readme-stats.vercel.app/api?username=JParrales&count_private=true&show_icons=true&hide_border=true)
-
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JParrales)
